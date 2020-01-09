@@ -6,6 +6,7 @@ I can now push.
 Creating a new branch is easy.
 <<<<<<< HEAD
 check diff is quick && simple.
+Add merge.
 =======
 check diff is quick && simple.
 >>>>>>> feature1
