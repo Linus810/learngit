@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 I can now push.
 Creating a new branch is easy.
-check diff.
+check diff is quick & simple.
